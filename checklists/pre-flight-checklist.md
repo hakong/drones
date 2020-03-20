@@ -49,8 +49,8 @@
 
 
 todo: sources to read:
-https://www.heliguy.com/blog/2017/08/10/heliguy-pre-flight-checklist/
-https://forum.dji.com/thread-84181-1-1.html
-https://forum.dji.com/thread-109069-1-1.html
-https://drive.google.com/file/d/0B9_JcmHrL2EyTDFEbHpuWUYzNTQ/view
-https://ledrones.org/pre-flight-checklist/
+- https://www.heliguy.com/blog/2017/08/10/heliguy-pre-flight-checklist/
+- https://forum.dji.com/thread-84181-1-1.html
+- https://forum.dji.com/thread-109069-1-1.html
+- https://drive.google.com/file/d/0B9_JcmHrL2EyTDFEbHpuWUYzNTQ/view
+- https://ledrones.org/pre-flight-checklist/

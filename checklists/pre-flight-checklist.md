@@ -2,21 +2,27 @@
 
 ### Assembly
 #### Type: READ-DO
-- Propellers locked
-- Legs locked
-- Batteries locked
+- Attach and lock propellers
+- Attach and lock legs
+- Attach and lock camera(s)
+
+### Flight planning
+#### Type: DO-CONFIRM
+- Operator qualified
+- Flight authorization     #todo: different wording?
+- Wind speed and precipitation forecast
+- Flight path: emergency landing possible
+- Return to Home: no headwind
+- Maximum environment altitude
 
 ### Takeoff
 #### Type: DO-CONFIRM
 - Operator qualified
+- Batteries locked
+- Legs locked
+- Propellers locked
+- Cameras locked
 - Battery charge
-- Maximum environment altitude
+- SD card(s) free space
 - Return to Home altitude
 - Return to Home coordinates up to date
-- Maximum environment wind speed
-- Maximum environment wind speed forecasted
-- Dry weather
-- Dry weather forecasted
-- Flight path: emergency landing possible
-- Flight path to home: no headwind
-- Flight path to home: emergency landing possible
